@@ -6,4 +6,7 @@ Suppression d'une tâche :
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
-Nullam vel risus fringilla, volutpat sapien ac, viverra arcu. Maecenas fermentum condimentum tellus at blandit. Fusce luctus ligula vitae ipsum lobortis hendrerit. Suspendisse potenti.
+Ajout d'une tache : 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id est at tellus sollicitudin tempus.     
+Vivamus viverra enim neque, tempor tristique est placerat ac. Maecenas a ligula nec erat varius convallis. 
+Proin nunc ipsum, facilisis congue congue at, hendrerit sed justo. Ut sagittis commodo neque.
